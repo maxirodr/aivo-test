@@ -16,5 +16,13 @@ As example: /?id=1628200751
 
 + ID (int) only
 
+## Inside configuration
+
++ You don't need to set up public or private keys
++ Just upload and run it!
+
+
+
+
 
 Maximiliano Ariel Rodríguez Intrevado - All rights owned
