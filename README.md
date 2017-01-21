@@ -23,6 +23,8 @@ As example: /?id=1628200751
 + Just upload and run it!
 
 
+if you want to test it without download it: http://imaxdesign.com.ar/clientes/aivo/?id=1628200751
+
 
 
 
