@@ -4,6 +4,7 @@ Aivo facebook API requests
 This is a open source project for AIVO test.
 
 + This works with PHP 5.6+
++ This scripts use graph API SDK v2.8
 + Composer installation isn't available
 + 0.79segs/eq running queries
 + Apache module required
